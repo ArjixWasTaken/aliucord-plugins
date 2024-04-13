@@ -1,3 +1,5 @@
+@file:Suppress("MISSING_DEPENDENCY_CLASS", "MISSING_DEPENDENCY_SUPERCLASS")
+
 import textreact.PluginSettings
 import android.content.Context
 import android.os.Bundle
